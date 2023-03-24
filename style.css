@@ -1,0 +1,130 @@
+body{
+  font-family: 'Lato', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* assignment 1 starts here*/
+.container2{
+  width: 100%;
+  height: 80%;
+  margin: 6% 0;
+  padding: 4% 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #c6daef; 
+}
+.box1_1{
+  width: 25%;
+  height: 20%;
+  background-color: rgb(242, 238, 238);
+  padding: 33px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-radius: 3%;
+}
+.container3{
+  width: 80%;
+  height: 85%;
+  margin: auto;
+  background-color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.box2_1{
+  width: 40%;
+  height: 30%;
+  margin: 2% auto;
+  padding: 3%;
+  border: #f1f2f3;
+  border-radius: 3%;
+  background-color: white;
+  display: inline;
+}
+.box2_1 img{
+  width: 100%;
+}
+/* assignment 2 starts here*/
+.container4{
+  width: 80%;
+  margin: auto;
+  background-color: rgb(247, 243, 243);
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+.box3_1{
+  width: 40%;
+  margin: 3% auto;
+  background-color: rgb(213, 208, 208);  
+}
+.box3_1 .box3_1_1{
+  width: 40%;
+  margin: auto;
+}
+.box3_1_1 img{
+  width: 100%;
+}
+/* ASSIGNMENT 3 STARTS HERE */
+.container_ass_3{
+  width: 85%;
+  margin: auto;
+  border: 4px solid rgb(21, 21, 21);
+  background-color: rgb(255, 254, 254);
+}
+.box_ass3{
+  width: 45%;
+  margin: 5% auto 0%;
+  
+}
+.box_ass3_2{
+  width: 45%;
+}
+.box_ass3_2 img{
+  width: 100%;
+  height: 100%;
+}
+.container2_ass3{
+  width: 85%;
+  margin: auto;
+
+}
+.box2_ass3{
+  width: 30%;
+  margin: 2% auto;
+  background-color: whitesmoke;
+  border: 4px solid black;
+  padding: 1%;
+}
+.assignment3{
+  background-color: rgb(240, 193, 212);
+  padding: 3%;
+}
+/* assignment_4 sttyle starts here*/
+
+.container4_ass4{
+  width: 88%;
+  background-color: rgb(191, 254, 196);
+  margin: auto;
+}
+.box4_ass4{
+  width: 30%;
+  margin: auto;
+}
+
+.box4_ass4_1{
+  width: 60%;
+  margin: auto;
+}
+.box4_ass4_2{
+  width: 40%;
+  margin: 4% auto;
+}
+.box4_ass4_2 img{
+  width: 100%;
+  margin-left: -5%;
+}
